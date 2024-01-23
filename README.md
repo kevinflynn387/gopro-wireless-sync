@@ -12,7 +12,9 @@ Next steps on your client device (e.g. Linux workstation):
 
 6) - Activate your device WLAN
 7) - Connect to WLAN - Your GoPro device WLAN name and password are provided in step 5)
-8) - Open a Webbrowser (e.g. Firefox) and open this link to show and download your videos: http://10.5.5.9:8080/videos/DCIM/
+8) - Open a Webbrowser (e.g. Firefox) and open this link to show and download your videos:
+
+     http://10.5.5.9:8080/videos/DCIM/
 
 Useful bash-script to download all .MP4 video files 
 ```
